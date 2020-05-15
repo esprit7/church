@@ -10,7 +10,7 @@ const elementsEvents = [{
   date:"le 24 mars"
 },
 {
-title:"Dieu sur Terre",
+title:"Dieu sur Tere",
   description:"concert des enfants de coeur de Ouro Chede",
   url:'./assets/doc/pdf1.pdf',
   date:"le 24 mars"
